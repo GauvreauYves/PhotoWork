@@ -7,16 +7,16 @@ Each edition is unique, handcrafted, and produced in a limited run.
 
 ## 🔍 Preview  
 <p align="center">
-  <img src="../images/ReveriesBilingue_v1.0_2025-02_1.webp" alt="Book Cover" width="100%">
+  <img src="images/Reveries_IMG_1.webp" alt="Book Cover" width="100%">
 </p>
 
 *A glimpse into the book's design and presentation.*
 
-![Sample Page](../images/ReveriesBilingue_v1.0_2025-02_9.webp)  
+![Sample Page](images/Reveries_IMG_8.webp)  
 *A moment captured in timeless monochrome.*
 
 <p align="center">
-  <img src="../images/ReveriesBilingue_v1.0_2025-02_8.webp" alt="Perdu" width="100%">
+  <img src="images/Reveries_IMG_9.webp" alt="Perdu" width="100%">
 </p>
 
 
