@@ -7,7 +7,7 @@ Each edition is unique, handcrafted, and produced in a limited run.
 
 ## 🔍 Preview  
 <p align="center">
-  <img src="../images/ReveriesBilingue_v1.0_2025-02_1.webp" alt="Book Cover" width="70%">
+  <img src="../images/ReveriesBilingue_v1.0_2025-02_1.webp" alt="Book Cover" width="100%">
 </p>
 
 *A glimpse into the book's design and presentation.*
