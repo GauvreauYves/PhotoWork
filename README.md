@@ -15,6 +15,11 @@ Each edition is unique, handcrafted, and produced in a limited run.
 ![Sample Page](images/ReveriesBilingue_v1.0_2025-02_9.webp)  
 *A moment captured in timeless monochrome.*
 
+<p align="center">
+  <img src="images/ReveriesBilingue_v1.0_2025-02_8.webp" alt="Perdu" width="100%">
+</p>
+
+
 ## 🏛️ Edition Details  
 - Produced in a **minimum of three (3)** and a **maximum of eight (8)** copies.  
 - Each book features **handcrafted covers and a custom case.**  
