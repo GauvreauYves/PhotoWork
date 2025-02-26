@@ -19,8 +19,5 @@ These digital editions are **low-resolution references only** and do not represe
 🔗 [Read the full license details here](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 
-## 🏛️ Public Collections  
-These limited-edition books are intended to be part of public collections.  
-The confirmed locations will be listed here as they become available.
-
-📌 *These books are designed to be archived in public collections for long-term preservation. Locations to be announced soon.*
+## 🏛️ Public Collections 
+📌 *These limited-edition books are designed to be archived in public collections for long-term preservation. Locations to be announced soon.*
