@@ -1,6 +1,13 @@
-# Floralis
-Under construction
+# 📖 Floralis – Fine Art Photography Book
 
-## 📄 View the Full Digital Edition 
-🔗 **[Download the PDF](https://github.com/GauvreauYves/FineArtBooks/raw/main/Floralis/pdf/Floralis.pdf)** 
-*For archival and reference use only.*  
+Welcome! This page contains the digital reference edition of *Floralis*, a fine art photography book.
+
+## 📥 Download the Digital Edition
+[Click here to download the PDF](https://github.com/GauvreauYves/FineArtBooks/raw/main/Floralis/pdf/Floralis.pdf)
+
+## 📚 Other Books
+- [📖 Rêveries](../Reveries/README.md)
+- [📖 Songes](../Songes/README.md)
+
+
+⬅️ [Back to the main library](../README.md)
