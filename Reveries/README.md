@@ -25,9 +25,8 @@ Each edition is unique, handcrafted, and produced in a limited run.
 - Each book features **handcrafted covers and a custom case.**  
 - The digital edition provides a reference but does not replicate the physical experience.
 
-## 📄 View the Full Digital Edition  
-🔗 **[Download the PDF](../pdf/ReveriesBilingue_v1.0_2025-02-1.pdf)** 
-🔗 **[Download PDF](https://github.com/GauvreauYves/FineArtBooks/raw/main/Reveries/pdf/ReveriesBilingue_v1.0_2025-02.pdf)**
+## 📄 View the Full Digital Edition
+🔗 **[Download the PDF](https://github.com/GauvreauYves/FineArtBooks/raw/main/Reveries/pdf/ReveriesBilingue_v1.0_2025-02.pdf)**
  
 *For archival and reference use only.*  
 
