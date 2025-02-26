@@ -1,34 +1,22 @@
-# Rêveries de noir et de blanc  
-_A limited edition fine art photography book by Yves Gauvreau._
+# 📖 Rêveries de noir et de blanc – Fine Art Photography Book
 
-## 📖 About the Book  
-A collection of black-and-white photographs exploring light, shadow, and emotion.  
-Each edition is unique, handcrafted, and produced in a limited run.  
+Welcome! This page contains the digital reference edition of *Rêveries de noir et de blanc*, a fine art photography book.
 
-## 🔍 Preview  
-<p align="center">
-  <img src="images/Reveries_IMG_1.webp" alt="Book Cover" width="100%">
-</p>
+## 📥 Download the Digital Edition
+[Click here to download the PDF](https://github.com/GauvreauYves/FineArtBooks/raw/main/Reveries/pdf/ReveriesBilingue_v1.0_2025-02.pdf)
 
-*A glimpse into the book's design and presentation.*
+## 📚 Other Books
+- [📖 Floralis](../Floralis/README.md)
+- [📖 Songes noir et blanc](../Songes/README.md)
 
-![Sample Page](images/Reveries_IMG_8.webp)  
-*A moment captured in timeless monochrome.*
+## 📜 License & Usage
 
-<p align="center">
-  <img src="images/Reveries_IMG_9.webp" alt="Perdu" width="100%">
-</p>
+This work is licensed under a **Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA) License**.  
+This means you are free to **share and adapt** this work **for non-commercial purposes**, as long as you **credit the original author** and **distribute any modified versions under the same license**.
+
+These digital editions are **low-resolution references only** and do not represent the quality of the physical fine art prints.
+
+🔗 [Read the full license details here](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 
-## 🏛️ Edition Details  
-- Produced in a **minimum of three (3)** and a **maximum of eight (8)** copies.  
-- Each book features **handcrafted covers and a custom case.**  
-- The digital edition provides a reference but does not replicate the physical experience.
-
-## 📄 View the Full Digital Edition
-🔗 **[Download the PDF](https://github.com/GauvreauYves/FineArtBooks/raw/main/Reveries/pdf/ReveriesBilingue_v1.0_2025-02.pdf)**
- 
-*For archival and reference use only.*  
-
----
-✉️ _For more information, contact [your preferred contact method]._
+⬅️ [Back to the main library](../README.md)
